@@ -1,6 +1,6 @@
 #KittyLock
 
-***Warning:** KittyLock is not intended to be a secure solution nor is it a viable replacement for locking your desktop (e.g. with <kbd>Win</kbd>+<kbd>L</kbd>).*
+<i><b>Warning:</b> KittyLock is not intended to be a secure solution nor is it a viable replacement for locking your desktop (e.g. with <kbd>Win</kbd>+<kbd>L</kbd>).</i>
 
 KittyLock works by disabling the keyboard and mouse buttons, making your desktop a screensaver!
 
