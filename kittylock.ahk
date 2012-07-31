@@ -1,6 +1,5 @@
 ﻿#SingleInstance, Force
 #NoTrayIcon
-
 SetTitleMatchMode, RegEx
 SetWinDelay, -1
 SetBatchLines, -1
@@ -43,6 +42,7 @@ AppsKey::
 !Tab::
 !Esc::
 +F10::
+^+Esc::
 
 LButton::
 RButton::
